@@ -18,5 +18,7 @@ https://egghead.io/lessons/rxjs-observables-push-compared-to-generator-functions
 https://egghead.io/lessons/ecmascript-6-generators
 from https://egghead.io/courses/learn-es6-ecmascript-2015
 
-Egghead: Observables and async
+√ Egghead: Observables and async
 https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop
+- concatAll
+- forEach: synchronous and asynchronous
