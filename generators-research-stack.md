@@ -1,5 +1,5 @@
-√ Canonical example
-http://wiki.ecmascript.org/doku.php?id=harmony:Generators
+Jeff's Magical Musical thing
+https://github.com/JeffryGonzalez/magicalmusicalthing
 
 Danny's Promise patterns, esp. async/await
 https://gist.github.com/dannyfritz/bb3f2551a3eb8b3f1dd1#asyncawait
@@ -10,6 +10,9 @@ https://en.wikipedia.org/wiki/Generator_(computer_programming)
 
 Generators in Smalltalk
 http://smalltalk.gnu.org/faq/47
+
+√ Canonical example: Fibonacci sequence
+http://wiki.ecmascript.org/doku.php?id=harmony:Generators
 
 √ Egghead: Observables vs Generators
 https://egghead.io/lessons/rxjs-observables-push-compared-to-generator-functions-pull
