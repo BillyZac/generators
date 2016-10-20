@@ -1,3 +1,6 @@
+A Practical Introduction to ES6 Generator Functions
+http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html?utm_source=nodeweekly&utm_medium=email
+
 Jeff's Magical Musical thing
 https://github.com/JeffryGonzalez/magicalmusicalthing
 
